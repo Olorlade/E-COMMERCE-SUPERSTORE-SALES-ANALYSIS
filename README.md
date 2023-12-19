@@ -23,7 +23,7 @@ I performed the following data cleaning process;
 - Lastly, converted the data to a table
 ## DATA ANALYSIS/VISUALIZATION
 ![](ECOMMERCE_DASHBOARD.png)
-## KPI's/KEY INSIGHTS
+## KPI's/OBSERVATIONS
 These are the insights summarized as follows;
 - The total number customer is 793
 - The total number of products ordered is 9,994
