@@ -1,6 +1,6 @@
 # SUPERSTORE-SALES-ANALYSIS
 ## PROJECT OVERVIEW
-The aim of this project is to perform extensive data analysis to deliver insights into the sales performance of an E-commerce retail company, on how to increase its profits while minimizing the losses. The store is into sales of Furnitures, Office supplies and Technology.
+The aim of this project is to perform extensive data analysis to deliver insights into the sales performance of an E-commerce retail company, on how to increase its profits while minimizing the losses. The store is into sales of Furnitures, Office supplies and Technological gadgets and Electrical appliances.
 ## DATA SOURCE
 Dataset used is from Kaggle and it’s a csv file. It contains 21 columns and 9995 (including the dataset header). File was duplicated and the working file opened and saved as an Excel File (.xlsx)
 ## BUSINESS TASK
